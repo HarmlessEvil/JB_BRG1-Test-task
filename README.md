@@ -29,3 +29,7 @@ stackpane {
 It has very smooth leaning curve and yet it is at least as powerful as JavaFX.
 
 So I decided to use this library – it is very cool 👍.
+
+### Screenshot
+
+![](docs/screenshot.png)
